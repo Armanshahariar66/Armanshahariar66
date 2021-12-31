@@ -1,4 +1,4 @@
-<h1 style="text-aling:center" >Hi, I’m Arman Shahariar </h1>
+<h1>Hi, I’m Arman Shahariar </h1>
 - 👀 I’m interested in Web desinger
 - 🌱 I’m currently learning HTML,CSS
 - 💞️ I’m looking to collaborate on ...
