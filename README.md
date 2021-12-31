@@ -6,12 +6,13 @@
 - 📫 How to reach me **armanshahariar66@gmail.com**
 
 
-<h3 align="left">Contect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <!-- <a href="https://linkedin.com/in/istiaque-ahmed-531911183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiaque-ahmed-531911183" height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/armanshahriar66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@armanshahriar66" height="30" width="40" /></a>
+<a href="https://www.facebook.com/armanshahriar66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@armanshahriar66" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/channel/UCarBIkjpjwkNQ4Z4T6tR_5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCarBIkjpjwkNQ4Z4T6tR_5g" height="30" width="40" /></a>
   <!-- 
-<a href="https://www.youtube.com/channel/UC9LdqoPe3PFDPI0wPnT_0MQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc9ldqope3pfdpi0wpnt_0mq" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
