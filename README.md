@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arman Shahariar</h1>
 <h3 align="center">I Love Web Design</h3>
 
-
+<!-- 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **istiaqueahmed2019.bd@gmail.com**
@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isti2623&show_icons=true&locale=en" alt="isti2623" /></p>
 
+ -->
