@@ -12,7 +12,8 @@
 <a href="https://www.facebook.com/armanshahriar66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@armanshahriar66" height="30" width="40" /></a> 
 <a href="https://www.youtube.com/channel/UCarBIkjpjwkNQ4Z4T6tR_5g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCarBIkjpjwkNQ4Z4T6tR_5g" height="30" width="40" /></a>
  <a href="https://www.instagram.com/armanshahariar66/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="UCarBIkjpjwkNQ4Z4T6tR_5g" height="30" width="40" /></a>
-  <!-- 
+  <a href="https://twitter.com/Arman__Shahriar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="UCarBIkjpjwkNQ4Z4T6tR_5g" height="30" width="40" /></a>
+ <!-- 
 
 </p>
 
