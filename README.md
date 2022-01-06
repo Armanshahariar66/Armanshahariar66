@@ -26,4 +26,5 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Armanshahariar66&show_icons=true&locale=en" alt="Armanshahariar66
 " /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Armanshahariar66&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22isti2623" alt="isti2623" /> </p>
 
